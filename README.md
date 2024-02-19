@@ -1,6 +1,6 @@
 # WebScraping_ElectricVehicle
 
-##Step-by-Step Guide for Web Scraping Canoo and Competitors:
+## Step-by-Step Guide for Web Scraping Canoo and Competitors:
 1. Identify Competitors
 2.  Web Scraping Tools
 3. Define Data Points
@@ -8,7 +8,7 @@
 5. Analyze the Data
 6. Document the Process
 
-##Techniques and Library used
+## Techniques and Library used
 Tools and Languages Used:
 Programming Language: Python
 Web Scraping Library: BeautifulSoup
